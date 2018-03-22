@@ -5,7 +5,7 @@ function myAnimal() {
 }
 
 function yourAnimal() {
-  var anime = 'cat';
+  var animal = 'cat';
   return animal;
 }
 
